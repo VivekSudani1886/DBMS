@@ -3,7 +3,7 @@
 --CREATE FOLLOWING TABLE (USING DESIGN MODE)
 
 		
-CREATE TABLE Dept (
+CREATE TABLE DEPT (
     DepartmentID INT ,
     DepartmentName VARCHAR(100) ,
     DepartmentCode VARCHAR(50) ,
